@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop watch</title>
+    <script src="app.js" defer/></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="container bg-violet-500 flex flex-col items-center"><h1 class="text-2xl text-white text-center">Arsalan Jamal<br/>Stop Watch</h1></div>
+ <div id="time"class="flex-col items-center">
+    <span id="hr" class="items-center">00 </span>
+    <span >Hr</span>
+    <span id="min">00</span>
+    <span>Min</span>
+    <span id="sec">00</span>
+    <span>Sec</span> 
+    <span id="count">00</span>
+ </div>
+    <div id="buttons" class="flex flex-col items-center py-10 px-10 mx-0 ">
+        <button class=" bg-green-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded-full -center" id="start">Start</button>
+        <button class="bg-red-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded-full" id="stop">Stop</button>
+        <button class="bg-yellow-400 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded-full" id="reset">Reset</button>
+    </div>
+</div>
+
+</body>
+</html> 
