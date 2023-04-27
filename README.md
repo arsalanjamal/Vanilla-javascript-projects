@@ -8,7 +8,7 @@ Here we will build the beginners projects with javascript to improve your coding
 (6)Tic tac toe Game</br>
 (7)Javascript Quiz</br>
 (8)Random Quote Generator</br>
-(9)</br>
+(9)Random Password Generator</br>
 (10)</br>
 (11)</br>
 (12)</br>
