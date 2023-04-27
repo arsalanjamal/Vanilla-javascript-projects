@@ -3,11 +3,11 @@ Here we will build the beginners projects with javascript to improve your coding
 <b>(1)Stop watch</b></br>
 (2)Calculator</br>
 (3)To do list</br>
-(4)</br>
-(5)</br>
-(6)</br>
-(7)</br>
-(8)</br>
+(4)Javascript Clock</br>
+(5)Javascript Calculator</br>
+(6)Tic tac toe Game</br>
+(7)Javascript Quiz</br>
+(8)Random Quote Generator</br>
 (9)</br>
 (10)</br>
 (11)</br>
