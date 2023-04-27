@@ -1,5 +1,5 @@
-# Vanilla-javascript-projects
-Here we will build the beginners projects with javascript to improve your coding skills.
+# Vanilla-javascript-projects</br>
+Here we will build the beginners projects with javascript to improve your coding skills.</br>
 <b>(1)Stop watch</b></br>
 (2)Calculator</br>
 (3)To do list</br>
